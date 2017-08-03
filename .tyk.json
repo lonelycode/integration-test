@@ -1,13 +1,13 @@
 {
-    "type": "apidef",
-    "file": "apidef.json",
+    "type": "oas",
+    "file": "swagger.json",
     "meta": {
-        "api_id": "A1",
-	"org_id": "O9",
-        "oai": {
+        "api_id": "OAI1",
+	"org_id": "O8",
+        "oas": {
              "override_target": "http://testmystuff.com",
              "override_listen_path": "/testing/",
-	     "version_name": "v1" 
+	     "version_name": "" 
         }
     }
 }
