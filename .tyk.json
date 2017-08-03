@@ -2,7 +2,7 @@
     "type": "apidef",
     "file": "apidef.json",
     "meta": {
-        "api_id" "A1",
+        "api_id": "A1",
 	"org_id": "O9",
         "oai": {
              "override_target": "http://testmystuff.com",
