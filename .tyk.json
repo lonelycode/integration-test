@@ -1,8 +1,13 @@
 {
     "type": "apidef",
     "file": "apidef.json",
-    "api_id": "",
-    "write_back": false,
-    "last_publish": 0,
-    "last_action": ""
+    "meta": {
+        "api_id" "A1",
+	"org_id": "O9",
+        "oai": {
+             "override_target": "http://testmystuff.com",
+             "override_listen_path": "/testing/",
+	     "version_name": "v1" 
+        }
+    }
 }
