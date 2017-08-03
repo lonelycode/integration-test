@@ -4,7 +4,7 @@
     "meta": {
         "api_id": "A1",
 	"org_id": "O9",
-        "oai": {
+        "oas": {
              "override_target": "http://testmystuff.com",
              "override_listen_path": "/testing/",
 	     "version_name": "v1" 
