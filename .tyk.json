@@ -1,6 +1,6 @@
 {
     "type": "apidef",
-    "file": "apidef.json",
+    "files": ["apidef.json"],
     "meta": {
         "api_id": "A1",
 	"org_id": "O9",
