@@ -1,6 +1,6 @@
 {
     "type": "oas",   
-    "meta": {
+    "files": [{
         "file": "swagger.json",
         "api_id": "OAI1",
 	"org_id": "O8",
@@ -9,5 +9,5 @@
              "override_listen_path": "/testing/",
 	     "version_name": "" 
         }
-    }
+    }]
 }
