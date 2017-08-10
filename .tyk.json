@@ -1,9 +1,8 @@
 {
     "type": "apidef",
-    "files": ["apidef.json", "apidef2.json", "apidef3.json"],
-    "meta": {
-        "api_id": "",
-	"org_id": "",
-        "oas": {}
-    }
+    "files": [
+        {"file": "apidef.json"}, 
+        {"file": "apidef2.json"}, 
+        {"file": "apidef3.json"}
+    ],
 }
