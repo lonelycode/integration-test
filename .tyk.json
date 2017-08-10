@@ -1,7 +1,7 @@
 {
-    "type": "oas",
-    "files": ["swagger.json"],
+    "type": "oas",   
     "meta": {
+        "file": "swagger.json",
         "api_id": "OAI1",
 	"org_id": "O8",
         "oas": {
