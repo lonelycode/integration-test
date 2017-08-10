@@ -1,13 +1,9 @@
 {
     "type": "apidef",
-    "files": ["apidef.json"],
+    "files": ["apidef.json", "apidef2.json", "apidef3.json"],
     "meta": {
-        "api_id": "A1",
-	"org_id": "O9",
-        "oas": {
-             "override_target": "http://testmystuff.com",
-             "override_listen_path": "/testing/",
-	     "version_name": "v1" 
-        }
+        "api_id": "",
+	"org_id": "",
+        "oas": {}
     }
 }
