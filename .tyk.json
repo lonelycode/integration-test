@@ -1,8 +1,8 @@
 {
     "type": "apidef",
     "files": [
-        {"file": "apidef.json", "api_id": "2084fa9717f74aea4c222f8aa912a3eb"}, 
-        {"file": "apidef2.json", "api_id": "25f2c117d88d47e75a13d6a09e7ce274"}, 
-        {"file": "apidef3.json", "api_id": "79f071877f4e4a856ec5abeae142b465"}
+        {"file": "apidef.json"}, 
+        {"file": "apidef2.json"}, 
+        {"file": "apidef3.json"}
     ],
 }
