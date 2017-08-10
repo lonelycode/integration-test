@@ -1,6 +1,6 @@
 {
     "type": "apidef",
-    "files": {
+    "files": [{
         "file": "apidef.json",
         "api_id": "A1",
 	"org_id": "O9",
@@ -9,5 +9,5 @@
              "override_listen_path": "/testing/",
 	     "version_name": "v1" 
         }
-    }
+    }]
 }
