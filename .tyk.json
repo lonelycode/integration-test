@@ -1,7 +1,7 @@
 {
     "type": "apidef",
-    "files": ["apidef.json"],
-    "meta": {
+    "files": {
+        "file": "apidef.json",
         "api_id": "A1",
 	"org_id": "O9",
         "oas": {
