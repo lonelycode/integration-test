@@ -83,7 +83,7 @@
     },
     "proxy": {
         "preserve_host_header": false,
-        "listen_path": "/131450d952234c0d77c6230713fb4f41/",
+        "listen_path": "/testing2/",
         "target_url": "http://eu.httpbin.org/",
         "strip_listen_path": true,
         "enable_load_balancing": false,
