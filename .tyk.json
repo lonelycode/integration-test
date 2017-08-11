@@ -1,8 +1,8 @@
 {
     "type": "apidef",
     "files": [
-        {"file": "apidef.json"}, 
-        {"file": "apidef2.json"}, 
-        {"file": "apidef3.json"}
+        {"file": "apidef.json", "api_id": "99991"}, 
+        {"file": "apidef2.json", "api_id": "99992"}, 
+        {"file": "apidef3.json", "api_id": "99993"}
     ]
 }
