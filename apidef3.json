@@ -84,7 +84,7 @@
     },
     "proxy": {
         "preserve_host_header": false,
-        "listen_path": "/dash-3-1/",
+        "listen_path": "/dashywashy333/",
         "target_url": "http://httpbin.org/",
         "strip_listen_path": true,
         "enable_load_balancing": false,
