@@ -1,0 +1,30 @@
+{
+	"_id": "5925078a97f43e086720ce38",
+	"id": "",
+	"org_id": "591ea6b10668f001852ae77a",
+	"rate": 1000,
+	"per": 60,
+	"quota_max": 20,
+	"quota_renewal_rate": 3600,
+	"access_rights": {
+		"b3df9cac6b334e37504f948331aad6a7": {
+			"api_name": "Test",
+			"api_id": "b3df9cac6b334e37504f948331aad6a7",
+			"versions": ["Default"],
+			"allowed_urls": []
+		}
+	},
+	"hmac_enabled": false,
+	"active": true,
+	"name": "Test policy 1",
+	"is_inactive": false,
+	"date_created": "0001-01-01T00:00:00Z",
+	"tags": [],
+	"key_expires_in": 0,
+	"partitions": {
+		"quota": false,
+		"rate_limit": false,
+		"acl": false
+	},
+	"last_updated": "1495604416"
+}

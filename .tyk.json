@@ -4,5 +4,8 @@
         {"file": "apidef.json", "api_id": "99991"}, 
         {"file": "apidef2.json", "api_id": "99992"}, 
         {"file": "apidef3.json", "api_id": "99993"}
+    ],
+    "policies": [
+	{"file": "pol1.json", "id": "5925078a97f43e086720ce38"}
     ]
 }
