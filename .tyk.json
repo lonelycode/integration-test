@@ -5,5 +5,5 @@
         {"file": "apidef2.json", "api_id": "99992"}, 
         {"file": "apidef3.json", "api_id": "99993"}
     ],
-    "policies": {"file": "pol1.json"}
+    "policies": [{"file": "pol1.json"}]
 }
