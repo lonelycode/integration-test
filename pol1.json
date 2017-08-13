@@ -17,7 +17,7 @@
 	"hmac_enabled": false,
 	"active": true,
 	"name": "Test policy 1",
-	"is_inactive": false,
+	"is_inactive": true,
 	"date_created": "0001-01-01T00:00:00Z",
 	"tags": [],
 	"key_expires_in": 0,
