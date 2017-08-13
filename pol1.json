@@ -7,9 +7,9 @@
 	"quota_max": 20,
 	"quota_renewal_rate": 3600,
 	"access_rights": {
-		"b3df9cac6b334e37504f948331aad6a7": {
-			"api_name": "Test",
-			"api_id": "b3df9cac6b334e37504f948331aad6a7",
+		"99991": {
+			"api_name": "Dash 1",
+			"api_id": "99991",
 			"versions": ["Default"],
 			"allowed_urls": []
 		}
@@ -26,5 +26,5 @@
 		"rate_limit": false,
 		"acl": false
 	},
-	"last_updated": "1495604416"
+	"last_updated": "1502611971"
 }
